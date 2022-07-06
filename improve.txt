@@ -1,14 +1,16 @@
 remove blank rows-last tables 								/
 underwriting yoa int									/
 every graph - only plot picked value plus 4 periods					/
-display more rows -  but side by side (put in a figure?) - need to go past 100 
+display more rows -  but side by side (put in a figure?) - need to go past 100		/
 		truncate() function? 
 		first 5 > 1.00?
+
+			° displayPickRange()
 
 
 ABOVE NOT COMPLETE UNLESS / 
 		
-dummy_data different - change table labels -> how to find what quarter its calculating?
+dummy_data different - change table labels -> how to find what quarter its calculating?/
 
 uncomment in first func
 
